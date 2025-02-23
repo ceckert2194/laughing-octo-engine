@@ -1,0 +1,33 @@
+# Build directories
+build/
+debug/
+release/
+
+# VS Code settings
+.vscode/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt specific
+*.user
+moc_*
+ui_*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Windows specific
+*.dll
+*.lib
