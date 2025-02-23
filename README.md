@@ -1,28 +1,37 @@
-# Task Manager
+# Task Manager 🐙
 
 A desktop task management application built with Qt6 and C++. Helps you stay organized with features for managing tasks, deadlines, and reminders.
 
 ## Features
 
 - **Task Management**
-  - Add new tasks
-  - Edit existing tasks
-  - Mark tasks as complete
-  - Delete tasks
-  - Set task priorities
+ - [ ] Add new tasks
+ - [ ] Edit existing tasks
+ - [ ] Mark tasks as complete
+ - [ ] Delete tasks
+ - [ ] Set task priorities
+ - [ ] Task categories/tags
+ - [ ] Task sorting and filtering
 
 - **Time Management**
-  - Set deadlines for tasks
-  - Create reminders
-  - Get notifications for upcoming tasks
-  - Calendar integration
+ - [ ] Set deadlines for tasks
+ - [ ] Create reminders
+ - [ ] Get notifications for upcoming tasks
+ - [ ] Calendar integration
 
 - **User Interface**
-  - Clean and intuitive design
-  - System tray integration
-  - Minimizes to taskbar
-  - Desktop notifications
-  - Dark/Light theme support
+ - [ ] Clean and intuitive design
+ - [ ] System tray integration
+ - [ ] Minimizes to taskbar
+ - [ ] Desktop notifications
+ - [ ] Dark/Light theme support
+
+- **Data Management**
+ - [ ] Data export/import
+ - [ ] Cloud sync
+ - [ ] Mobile companion app
+ - [ ] Installer
+ - [ ] Cross-platform
 
 ## Building from Source
 
@@ -53,16 +62,6 @@ cmake --build .
 3. Set priorities and deadlines as needed
 4. Receive notifications when tasks are due
 5. Minimize to system tray for background operation
-
-## Planned Features
-
-- [ ] Task categories/tags
-- [ ] Task sorting and filtering
-- [ ] Data export/import
-- [ ] Cloud sync
-- [ ] Mobile companion app
-- [ ] Installer
-- [ ] Cross-platform
 
 ## License
 
