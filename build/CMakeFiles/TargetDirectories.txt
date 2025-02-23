@@ -1,5 +1,0 @@
-C:/Users/chris/Documents/Programming/C++/laughing-octo-engine/build/CMakeFiles/laughing-octo-engine.dir
-C:/Users/chris/Documents/Programming/C++/laughing-octo-engine/build/CMakeFiles/edit_cache.dir
-C:/Users/chris/Documents/Programming/C++/laughing-octo-engine/build/CMakeFiles/rebuild_cache.dir
-C:/Users/chris/Documents/Programming/C++/laughing-octo-engine/build/CMakeFiles/laughing-octo-engine_autogen_timestamp_deps.dir
-C:/Users/chris/Documents/Programming/C++/laughing-octo-engine/build/CMakeFiles/laughing-octo-engine_autogen.dir
